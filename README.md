@@ -38,8 +38,10 @@ Zentry is a cutting-edge gaming website that bridges the gap between Web2 and We
 ## ⚠️ Credits & Disclaimer
 This project is inspired by the **[Zentry](https://zentry.com/)** website. All assets (images, videos, and branding elements) used in this project are the property of Zentry and are used here for educational and demonstration purposes only. This is a clone project created to study and replicate the advanced design and animation techniques used in the original website.
 
-## 📸 Screenshots
-*(Screenshots to be added)*
+
 
 ---
 *Built  using React & GSAP.*
+
+---
+*Build by Aayush sharma*
